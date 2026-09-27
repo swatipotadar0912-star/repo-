@@ -1,2 +1,0 @@
-welcome to first repo
-this is push pull operation
